@@ -213,7 +213,7 @@ Hello!
 ## Ryan Wong
 Hi, I am Ryan. 
 
-[My Github account](https://github.com/Gwong37)
+[My Github account](https://github.com/mantogasrsrwyathrblue))
 
 [My Github Page](https://polyulabs.github.io/starterv2-mantogasrsrwyathrblue/)
 
@@ -221,6 +221,6 @@ Hi, I am Ryan.
 ## Gary Wong
 Hi, I am Gary. 
 
-[My Github account](https://github.com/mantogasrsrwyathrblue)
+[My Github account](https://github.com/GWong37)
 
 [My Github Page](https://polyulabs.github.io/starterv2-Gwong37/)
